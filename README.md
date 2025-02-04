@@ -9,8 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript...
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 🤔 I’m looking for help with about REST APIs and database optimization.
-- 💬 Ask me about Java, JSP, NetBeans, and database management.
-- 📫 How to reach me:santhiyadharmaraj25@gmail.com
+- 💬 Ask me about my projects.
 - 😄 Pronouns:She/Her
-- ⚡ Fun fact: I once built an entire project overnight just for fun!
+- ⚡ Fun fact:
+- 📫 Contact:
+-         Linkedin:https://www.linkedin.com/in/santhiya-d-b19833256/
+-         Mail:santhiyadharmaraj25@gmail.com
 
