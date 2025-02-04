@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects.
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact:
-- 📫 Contact:
--         Linkedin:https://www.linkedin.com/in/santhiya-d-b19833256/
--         Mail:santhiyadharmaraj25@gmail.com
+- 📫 Contact:Linkedin:https://www.linkedin.com/in/santhiya-d-b19833256/
+              Mail:santhiyadharmaraj25@gmail.com
 
